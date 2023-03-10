@@ -7,6 +7,6 @@ int main()
     printf("Enter temperature in centigrade scale : ");
     scanf("%f",&c);
     f = ((9*c)/5)+32;
-    printf("Temperstue in fahreinheit scale is %f",f);
+    printf("Temperature in fahreinheit scale is %f",f);
     return 0;
 }
